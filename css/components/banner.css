@@ -1,0 +1,45 @@
+.hero-banner {
+  height: 350px;
+  padding: 200px 0;
+  /* background-size: cover; */
+  background-position: center;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.hero-banner h1 {
+  color: white;
+  font-size: 40px;
+  margin: 0px;
+  padding-bottom: 20px;
+}
+
+.hero-banner p {
+  color: white;
+  opacity: .7;
+  font-size: 25px;
+  margin: 0px;
+  padding-bottom: 25px;
+}
+
+.btn-primary {
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  background-color: #4A63F3;
+  border-radius: 20px;
+  display: inline-block;
+  padding: 20px 45px;
+  margin-top: 20px;
+}
+
+.btn-primary:hover {
+  color: white;
+  background-color: #4A63F3;
+  opacity: 0.5;
+  border-radius: 20px;
+  display: inline-block;
+}
